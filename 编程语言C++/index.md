@@ -7,4 +7,11 @@
 #### 目录
 
 - [指针和常量](./指针和常量.md)
-    
+
+#### 其他引用
+
+- [cht::第四次实验报告](https://github.com/h1542462994/homework.gallery/blob/master/.cpp/下学期实验/exp4/第四次实验报告.md)
+
+- [cht::第四次实验分享](https://github.com/h1542462994/homework.gallery/blob/master/.cpp/下学期实验/exp4/第四次实验分享.md)
+
+- [cht::第五次实验报告](https://github.com/h1542462994/homework.gallery/blob/master/.cpp/下学期实验/exp5/第五次实验报告.md)
