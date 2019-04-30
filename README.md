@@ -25,3 +25,9 @@
 - [友情链接（还有有用的资源）](./帮助文档/友情链接.md)
 
 - [cht::编程作业集](https://github.com/h1542462994/homework.gallery)
+
+#### 相关说明
+
+&emsp;&emsp;大家可以通过[pull request](./帮助文档/认识Git和Github.md)提交自己的知识分享，为了保护知识产权，请大家在提交中写好自己的署名(**一般为姓名的首字母拼音的缩写，也可以是自己的笔名**)。
+<br/>&emsp;&emsp;如果大家有什么问题想要问我，或者有关于组织的建议，可以提交`issue`(就在网页版提交)，我们会尽量写关于`issue`的知识分享，并予以答复。
+<br/>&emsp;&emsp;欢迎大家[加入我们](https://github.com/TropicalTeamYard/tty.document)
