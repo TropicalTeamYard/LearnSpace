@@ -14,6 +14,8 @@
 
 - [认识Git和Github](./帮助文档/认识Git和Github.md)
 
+- [markdown简单入门](./帮助文档/markdown简单入门.md)
+
 #### 目录
 
 - [编程语言C++](./编程语言C++/index.md) 
