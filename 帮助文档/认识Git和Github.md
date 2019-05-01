@@ -67,3 +67,5 @@
 ![步骤](../.image/e9.png)
 
 相信通过学习，你也可以愉快地玩耍`github`了。
+
+> Author:cht.
