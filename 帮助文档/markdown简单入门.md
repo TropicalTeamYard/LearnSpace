@@ -50,5 +50,5 @@
     &emsp;&emsp;我要学习markdown
     <br/>&emsp;&emsp;我要学习markdown
     ```
-    
+
 > Author:cht.
